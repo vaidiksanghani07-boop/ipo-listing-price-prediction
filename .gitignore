@@ -16,6 +16,7 @@ __pycache__/
 
 # Python environment files
 .env
+*.pkl
 
 # OS files
 .DS_Store
